@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monish2502&label=Profile%20views&color=0e75b6&style=flat-square" alt="monish2502" /> </p>
 
 
-- 🌱 I’m currently learning **Frontend technologies**
+- 🌱 I’m currently learning **Web technologies**
 
-- 👯 I’m looking to collaborate on **Web Development and Cloud Solutions**
+- 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **Java, AWS**
+- 💬 Ask me about **DSA and Web Development**
 
 - 📫 How to reach me **monish2502@gmail.com**
 
